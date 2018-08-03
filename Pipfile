@@ -10,8 +10,7 @@ django = "*"
 gunicorn = "*"
 django-heroku = "*"
 flask = "*"
-json = "*"
-os = "*"
+mysql-connector-python-rf = "*"
 
 
 [requires]
